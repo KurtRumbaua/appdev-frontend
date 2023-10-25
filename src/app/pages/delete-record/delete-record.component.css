@@ -1,0 +1,184 @@
+:host { 
+  display: contents; 
+}
+.delete-record-container {
+  width: auto;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.delete-record-container01 {
+  gap: var(--dl-space-space-twounits);
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to right,#dc612b 20%, #f7a852 60%);
+}
+.delete-record-container02 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+.delete-record-navlink {
+  display: contents;
+}
+.delete-record-icon {
+  width: 46px;
+  height: 50px;
+  text-decoration: none;
+}
+.delete-record-navlink1 {
+  display: contents;
+}
+.delete-record-text {
+  align-self: center;
+  text-align: justify;
+  text-decoration: none;
+}
+.delete-record-navlink2 {
+  display: contents;
+}
+.delete-record-container03 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+.delete-record-icon02 {
+  width: 24px;
+  height: 24px;
+}
+.delete-record-navlink3 {
+  display: contents;
+}
+.delete-record-container04 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.delete-record-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.delete-record-navlink4 {
+  display: contents;
+}
+.delete-record-container05 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.delete-record-icon06 {
+  width: 24px;
+  height: 24px;
+}
+.delete-record-navlink5 {
+  display: contents;
+}
+.delete-record-container06 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.delete-record-icon08 {
+  width: 24px;
+  height: 24px;
+}
+.delete-record-navlink6 {
+  display: contents;
+}
+.delete-record-container07 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.delete-record-icon10 {
+  width: 24px;
+  height: 24px;
+}
+.delete-record-container08 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  box-shadow: -10px 0px 10px 0px rgba(39, 38, 38, 0.28);
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.delete-record-container09 {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.delete-record-form {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.delete-record-container10 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.delete-record-textinput {
+  width: 100%;
+}
+.delete-record-delete-record {
+  color: var(--dl-color-gray-white);
+  font-size: 24px;
+  align-self: center;
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  transition: 0.3s;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 1.15;
+  border-width: 0px;
+  text-transform: none;
+  background-color: rgb(220, 97, 43);
+}
+.delete-record-delete-record:hover {
+  transform: scale(1.1);
+}
+.delete-record-text11 {
+  text-decoration: none;
+}
+@media(max-width: 1600px) {
+  .delete-record-text11 {
+    text-decoration: none;
+  }
+}

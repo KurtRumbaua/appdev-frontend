@@ -1,0 +1,297 @@
+:host { 
+  display: contents; 
+}
+.admindog-info-container {
+  width: auto;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.admindog-info-container01 {
+  gap: var(--dl-space-space-twounits);
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to right,#dc612b 20%, #f7a852 60%);
+}
+.admindog-info-container02 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+.admindog-info-navlink {
+  display: contents;
+}
+.admindog-info-icon {
+  width: 46px;
+  height: 50px;
+  text-decoration: none;
+}
+.admindog-info-navlink1 {
+  display: contents;
+}
+.admindog-info-text {
+  align-self: center;
+  text-align: justify;
+  text-decoration: none;
+}
+.admindog-info-navlink2 {
+  display: contents;
+}
+.admindog-info-container03 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+.admindog-info-icon02 {
+  width: 24px;
+  height: 24px;
+}
+.admindog-info-navlink3 {
+  display: contents;
+}
+.admindog-info-container04 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.admindog-info-icon04 {
+  width: 24px;
+  height: 24px;
+}
+.admindog-info-navlink4 {
+  display: contents;
+}
+.admindog-info-container05 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.admindog-info-icon06 {
+  width: 24px;
+  height: 24px;
+}
+.admindog-info-navlink5 {
+  display: contents;
+}
+.admindog-info-container06 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.admindog-info-icon08 {
+  width: 24px;
+  height: 24px;
+}
+.admindog-info-navlink6 {
+  display: contents;
+}
+.admindog-info-container07 {
+  flex: 0 0 auto;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.admindog-info-icon10 {
+  width: 24px;
+  height: 24px;
+}
+.admindog-info-container08 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  box-shadow: -10px 0px 10px 0px rgba(39, 38, 38, 0.28);
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.admindog-info-container09 {
+  gap: var(--dl-space-space-halfunit);
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.admindog-info-container10 {
+  width: 1294px;
+  height: 749px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.admindog-info-container11 {
+  height: inherit;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.admindog-info-container12 {
+  width: auto;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.admindog-info-dog-name {
+  font-size: 46;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-left: var(--dl-space-space-halfunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.admindog-info-image {
+  width: inherit;
+  height: inherit;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-bottom: 0px;
+}
+.admindog-info-container13 {
+  flex: 1;
+  height: inherit;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.admindog-info-container14 {
+  width: auto;
+  display: flex;
+  margin-top: var(--dl-space-space-halfunit);
+  align-items: center;
+  margin-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
+}
+.admindog-info-container15 {
+  flex: 1;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  margin-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: center;
+}
+.admindog-info-text08 {
+  font-size: 30px;
+}
+.admindog-info-text09 {
+  font-size: 30px;
+}
+.admindog-info-text10 {
+  font-size: 30px;
+}
+.admindog-info-text11 {
+  font-size: 30px;
+}
+.admindog-info-container16 {
+  flex: 1;
+  width: inherit;
+  height: inherit;
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: center;
+}
+.admindog-info-text12 {
+  font-size: 30px;
+}
+.admindog-info-text13 {
+  font-size: 30px;
+  align-self: flex-start;
+}
+.admindog-info-text14 {
+  font-size: 30px;
+}
+.admindog-info-text15 {
+  font-size: 30px;
+}
+.admindog-info-container17 {
+  width: inherit;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.admindog-info-additional-info {
+  flex-wrap: inherit;
+  font-size: 30px;
+  margin-top: var(--dl-space-space-halfunit);
+  text-align: justify;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.admindog-info-container18 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.admindog-info-back {
+  color: var(--dl-color-gray-white);
+  font-size: 24px;
+  align-self: center;
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  transition: 0.3s;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 1.15;
+  border-width: 0px;
+  text-transform: none;
+  text-decoration: none;
+  background-color: rgb(220, 97, 43);
+}
+.admindog-info-back:hover {
+  transform: scale(1.1);
+}
+@media(max-width: 1600px) {
+  .admindog-info-container11 {
+    margin-right: var(--dl-space-space-sixunits);
+  }
+  .admindog-info-container12 {
+    height: 92px;
+  }
+  .admindog-info-dog-name {
+    font-size: 46px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 1.15;
+    text-transform: none;
+    text-decoration: none;
+  }
+}
